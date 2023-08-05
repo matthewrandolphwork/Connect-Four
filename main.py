@@ -1,2 +1,2 @@
-x = 2
+x = "Hello World"
 print(x)
